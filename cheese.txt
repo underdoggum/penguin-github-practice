@@ -1,4 +1,5 @@
 gouda
 muenster
 jack cheddar
+swiss
 manchego
